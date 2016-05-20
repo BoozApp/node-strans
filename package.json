@@ -1,0 +1,25 @@
+{
+  "name": "strans",
+  "version": "1.0.0",
+  "description": "API simples da Strans em Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoozApp/node-strans.git"
+  },
+  "keywords": [
+    "strans",
+    "teresina",
+    "inthegra",
+    "setut"
+  ],
+  "author": "Gabriel Rubens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BoozApp/node-strans/issues"
+  },
+  "homepage": "https://github.com/BoozApp/node-strans#readme"
+}
